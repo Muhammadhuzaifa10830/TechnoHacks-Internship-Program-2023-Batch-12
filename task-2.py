@@ -1,5 +1,5 @@
-Calculate summary statistics (mean, median,mode, standard deviation) for a dataset
-Taking iris datset
+# Calculate summary statistics (mean, median,mode, standard deviation) for a dataset
+# Taking iris datset
 
 import pandas as pd
 df = pd.read_csv('E:\DATASET\iris.csv')
